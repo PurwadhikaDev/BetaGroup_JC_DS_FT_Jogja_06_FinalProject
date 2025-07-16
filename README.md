@@ -64,7 +64,7 @@ Olist operates in a complex e-commerce landscape with challenges including:
 
 2. **Exploratory Data Analysis (EDA)**:
    - Analyzed customer satisfaction trends, freight costs, payment methods, and regional distribution.
-   - Identified correlations between features like delivery time and review scores.
+   - Identified correlations between features like delivery time and customer satisfaction.
 
 3. **Machine Learning**:
    - Built a classification model using XGBoost with SMOTEENN resampling to address class imbalance.
@@ -141,7 +141,7 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost imbalanc
 
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook JCDS060_JOG_Team_Beta_RandomSearch_Brazilian_ecommerce_ML_Final.ipynb
+   jupyter notebook JCDS0610_JOG_Team_Beta_RandomSearch_Brazilian_ecommerce_ML_Final.ipynb
    ```
 
 4. To make predictions with the saved model:
@@ -171,7 +171,7 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost imbalanc
 
 ```
 olist-ecommerce-analysis/
-├── JCDS060_JOG_Team_Beta_RandomSearch_Brazilian_ecommerce_ML_Final.ipynb
+├── JCDS0610_JOG_Team_Beta_RandomSearch_Brazilian_ecommerce_ML_Final.ipynb
 ├── best_model.pkl
 ├── README.md
 ├── data/ (place Kaggle dataset here)
