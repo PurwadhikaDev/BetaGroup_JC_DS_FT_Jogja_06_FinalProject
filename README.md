@@ -65,6 +65,7 @@ Olist operates in a complex e-commerce landscape with challenges including:
 2. **Exploratory Data Analysis (EDA)**:
    - Analyzed customer satisfaction trends, freight costs, payment methods, and regional distribution.
    - Identified correlations between features like delivery time and customer satisfaction.
+   - Business Analysis : (https://lookerstudio.google.com/reporting/dd9b6d2d-be7c-40e0-82a2-c66317239473)
 
 3. **Machine Learning**:
    - Built a classification model using XGBoost with SMOTEENN resampling to address class imbalance.
