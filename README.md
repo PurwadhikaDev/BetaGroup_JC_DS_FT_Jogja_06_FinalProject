@@ -21,7 +21,6 @@ The analysis employs exploratory data analysis (EDA), data preprocessing, and ma
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Dataset
 
@@ -184,7 +183,3 @@ olist-ecommerce-analysis/
 - **Ade Ilma Hasanah**
 - **Asiyatul Mahfudloh**
 - **Frans Julian Bryan Sagala**
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
